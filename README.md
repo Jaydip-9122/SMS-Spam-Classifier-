@@ -1,6 +1,6 @@
 # SMS-Spam-Classifier-
 Automatically classify SMS messages as 'spam' or 'ham' (not spam) using machine learning to reduce manual effort and protect users from fraudulent and unwanted messages.
-# SMS Spam Classifier
+
 
 ## Overview
 This project implements an **SMS Spam Classifier** using Machine Learning to automatically classify SMS messages as 'spam' or 'ham' (not spam), helping users avoid fraudulent and unwanted messages.
